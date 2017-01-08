@@ -3,6 +3,11 @@ logs
 *.log
 npm-debug.log*
 
+#babel
+.babelrc
+*.gitkeep
+.editorconfig
+
 # Runtime data
 pids
 *.pid
